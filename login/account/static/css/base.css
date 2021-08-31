@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 body {
-    margin: 7vh 33vw 0 30vw;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -10,16 +9,12 @@ body {
 }
 
 #header a {
-    font-size: 0.8rem;
-    padding-right: 1vw;
+    font-size: min(3vw, 16.5px);
+    padding-right: 0.7em;
 }
 
 a {
     text-decoration: none;
-}
-
-.log {
-    float: right;
 }
 
 #content{
